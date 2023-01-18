@@ -7,6 +7,7 @@ public class Perro
 	private int edad;
 	private String color;
 	
+	/*Constructor por defecto */
 	public Perro() {
 		raza = new Raza();
 		tamanio = 0.0;
