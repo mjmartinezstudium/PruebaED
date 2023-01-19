@@ -2,7 +2,7 @@ package es.studium.banco;
 
 public class Cliente {
 
-	//Atributos
+	//Atributos privados
 	private String dni;
 	private String nombre;
 	private String direccion;
