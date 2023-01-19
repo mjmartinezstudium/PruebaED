@@ -7,7 +7,7 @@ public class Cliente {
 	private String nombre;
 	private String direccion;
 
-	//Constructor vacío
+	//Constructor vacío o por defecto
 	public Cliente() {
 		setDni("");
 		setNombre("");
